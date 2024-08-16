@@ -1,0 +1,55 @@
+{
+    "bots": [
+      {
+        "id": 1,
+        "name": "Cyborg Crusher",
+        "type": "Combat",
+        "health": 85,
+        "damage": 55,
+        "armor": 40,
+        "avatar_url": "https://via.placeholder.com/150?text=Cyborg+Crusher",
+        "catchphrase": "Crushing enemies, one bot at a time!"
+      },
+      {
+        "id": 2,
+        "name": "Laser Lancer",
+        "type": "Sniper",
+        "health": 60,
+        "damage": 70,
+        "armor": 20,
+        "avatar_url": "https://via.placeholder.com/150?text=Laser+Lancer",
+        "catchphrase": "Aim. Fire. Destroy."
+      },
+      {
+        "id": 3,
+        "name": "Shield Sentinel",
+        "type": "Tank",
+        "health": 100,
+        "damage": 30,
+        "armor": 80,
+        "avatar_url": "https://via.placeholder.com/150?text=Shield+Sentinel",
+        "catchphrase": "You can't break what you can't touch."
+      },
+      {
+        "id": 4,
+        "name": "Speedster",
+        "type": "Scout",
+        "health": 50,
+        "damage": 40,
+        "armor": 25,
+        "avatar_url": "https://via.placeholder.com/150?text=Speedster",
+        "catchphrase": "Fast and furious!"
+      },
+      {
+        "id": 5,
+        "name": "Blaze Bot",
+        "type": "Pyro",
+        "health": 70,
+        "damage": 65,
+        "armor": 30,
+        "avatar_url": "https://via.placeholder.com/150?text=Blaze+Bot",
+        "catchphrase": "Feel the heat!"
+      }
+    ]
+  }
+  
